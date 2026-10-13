@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "village": "Bagbari, Bogura",
+    "coordinates": [24.85, 89.37],
+    "forecast": [
+      { "date": "04 Jul", "report": "Mostly Cloudy, Light Rain", "high_c": 36, "low_c": 28 },
+      { "date": "05 Jul", "report": "Cloudy, Rain", "high_c": 33, "low_c": 27 },
+      { "date": "06 Jul", "report": "Rain", "high_c": 32, "low_c": 27 },
+      { "date": "07 Jul", "report": "Cloudy, Rain", "high_c": 31, "low_c": 26 },
+      { "date": "08 Jul", "report": "Heavy Showers", "high_c": 31, "low_c": 26 },
+      { "date": "09 Jul", "report": "Rain", "high_c": 28, "low_c": 27 },
+      { "date": "10 Jul", "report": "Rain", "high_c": 29, "low_c": 26 },
+      { "date": "11 Jul", "report": "Cloudy, Heavy Showers", "high_c": 32, "low_c": 28 }
+    ]
+  },
+  {
+    "id": 2,
+    "village": "Hemayetpur, Pabna",
+    "coordinates": [24.02, 89.25],
+    "forecast": [
+      { "date": "04 Jul", "report": "Passing Showers", "high_c": 36, "low_c": 27 },
+      { "date": "05 Jul", "report": "Isolated Thunderstorms", "high_c": 35, "low_c": 28 },
+      { "date": "06 Jul", "report": "Thunderstorms", "high_c": 33, "low_c": 27 },
+      { "date": "07 Jul", "report": "Passing Showers", "high_c": 34, "low_c": 28 },
+      { "date": "08 Jul", "report": "Thunderstorms", "high_c": 33, "low_c": 27 },
+      { "date": "09 Jul", "report": "Rain Showers", "high_c": 33, "low_c": 28 },
+      { "date": "10 Jul", "report": "Passing Showers", "high_c": 34, "low_c": 27 },
+      { "date": "11 Jul", "report": "Passing Showers", "high_c": 33, "low_c": 27 }
+    ]
+  },
+  {
+    "id": 3,
+    "village": "Kumarkhali, Kushtia",
+    "coordinates": [23.85, 89.20],
+    "forecast": [
+      { "date": "04 Jul", "report": "Thunderstorms", "high_c": 38, "low_c": 27 },
+      { "date": "05 Jul", "report": "Rain Showers", "high_c": 36, "low_c": 28 },
+      { "date": "06 Jul", "report": "Rain", "high_c": 34, "low_c": 28 },
+      { "date": "07 Jul", "report": "Thunderstorms", "high_c": 34, "low_c": 27 },
+      { "date": "08 Jul", "report": "Rain Showers", "high_c": 33, "low_c": 27 },
+      { "date": "09 Jul", "report": "Rain", "high_c": 32, "low_c": 27 },
+      { "date": "10 Jul", "report": "Rain", "high_c": 33, "low_c": 27 },
+      { "date": "11 Jul", "report": "Thunderstorms", "high_c": 34, "low_c": 27 }
+    ]
+  },
+  {
+    "id": 4,
+    "village": "Kanaighat, Sylhet",
+    "coordinates": [25.00, 92.25],
+    "forecast": [
+      { "date": "04 Jul", "report": "Heavy Rain", "high_c": 34, "low_c": 25 },
+      { "date": "05 Jul", "report": "Heavy Rain", "high_c": 31, "low_c": 25 },
+      { "date": "06 Jul", "report": "Rain", "high_c": 33, "low_c": 25 },
+      { "date": "07 Jul", "report": "Light Rain", "high_c": 31, "low_c": 25 },
+      { "date": "08 Jul", "report": "Rain", "high_c": 32, "low_c": 25 },
+      { "date": "09 Jul", "report": "Very Heavy Rain", "high_c": 25, "low_c": 24 },
+      { "date": "10 Jul", "report": "Rain", "high_c": 28, "low_c": 24 },
+      { "date": "11 Jul", "report": "Partly Cloudy", "high_c": 33, "low_c": 24 }
+    ]
+  },
+  {
+    "id": 5,
+    "village": "Chatok, Sylhet",
+    "coordinates": [25.10, 92.30],
+    "forecast": [
+      { "date": "04 Jul", "report": "Heavy Rain", "high_c": 34, "low_c": 25 },
+      { "date": "05 Jul", "report": "Heavy Rain", "high_c": 31, "low_c": 25 },
+      { "date": "06 Jul", "report": "Rain", "high_c": 33, "low_c": 25 },
+      { "date": "07 Jul", "report": "Light Rain", "high_c": 31, "low_c": 25 },
+      { "date": "08 Jul", "report": "Rain", "high_c": 32, "low_c": 25 },
+      { "date": "09 Jul", "report": "Very Heavy Rain", "high_c": 25, "low_c": 24 },
+      { "date": "10 Jul", "report": "Rain", "high_c": 28, "low_c": 24 },
+      { "date": "11 Jul", "report": "Partly Cloudy", "high_c": 33, "low_c": 24 }
+    ]
+  }
+]
