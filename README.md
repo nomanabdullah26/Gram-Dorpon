@@ -360,15 +360,6 @@ GramDorpon builds on the wider ecosystem of open-source web development, geospat
 
 ---
 
-## Contributing
-
-Contributions, suggestions, and issue reports are welcome. If you plan to contribute:
-
-1. Describe the issue or proposed improvement clearly.
-2. Include steps to reproduce bugs and screenshots where relevant.
-3. Avoid committing API keys, credentials, private data, or unlicensed datasets.
-4. Document whether a feature is implemented, experimental, or planned.
-
 ## License
 
 No license was specified in the supplied project materials. Add a `LICENSE` file before describing the project as open source or permitting reuse. Choose a license that matches the team's intentions and any third-party data or asset restrictions.
